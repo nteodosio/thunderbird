@@ -173,7 +173,6 @@ parts:
       - libasound2-dev
       - libclang-20-dev
       - libdbus-glib-1-dev
-      - libggml-dev
       - llvm-20-dev
       - libpython3-dev
       - libx11-xcb-dev
